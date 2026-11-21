@@ -56,9 +56,9 @@
    "source": "ats slug"
   },
   "slice": {
-   "feed": "greenhouse",
-   "open": 22,
-   "source": "ats slug"
+   "feed": "browser-json",
+   "open": 37,
+   "source": "careers page"
   },
   "Spinny": {
    "feed": "browser-json",
@@ -379,6 +379,111 @@
    "feed": "lever",
    "open": 13,
    "source": "ats slug"
+  },
+  "JPMorgan Chase": {
+   "feed": "browser-json",
+   "open": 40,
+   "source": "careers page"
+  },
+  "Wells Fargo": {
+   "feed": "workday",
+   "open": 154,
+   "source": "ats slug"
+  },
+  "Bank of America (BofA Continuum India)": {
+   "feed": "workday",
+   "open": 146,
+   "source": "ats slug"
+  },
+  "Deutsche Bank": {
+   "feed": "workday",
+   "open": 215,
+   "source": "ats slug"
+  },
+  "State Street": {
+   "feed": "workday",
+   "open": 246,
+   "source": "ats slug"
+  },
+  "Northern Trust": {
+   "feed": "workday",
+   "open": 188,
+   "source": "ats slug"
+  },
+  "Fidelity Investments (FMR India)": {
+   "feed": "workday",
+   "open": 144,
+   "source": "ats slug"
+  },
+  "Fidelity International": {
+   "feed": "workday",
+   "open": 29,
+   "source": "ats slug"
+  },
+  "Vanguard": {
+   "feed": "workday",
+   "open": 135,
+   "source": "ats slug"
+  },
+  "Invesco": {
+   "feed": "workday",
+   "open": 70,
+   "source": "ats slug"
+  },
+  "Synchrony": {
+   "feed": "workday",
+   "open": 17,
+   "source": "ats slug"
+  },
+  "Capital One": {
+   "feed": "workday",
+   "open": 199,
+   "source": "ats slug"
+  },
+  "Commonwealth Bank (CommBank India)": {
+   "feed": "workday",
+   "open": 105,
+   "source": "ats slug"
+  },
+  "Truist": {
+   "feed": "workday",
+   "open": 166,
+   "source": "ats slug"
+  },
+  "Charles Schwab": {
+   "feed": "browser-json",
+   "open": 3,
+   "source": "careers page"
+  },
+  "Mastercard": {
+   "feed": "workday",
+   "open": 141,
+   "source": "ats slug"
+  },
+  "MetLife": {
+   "feed": "browser-json",
+   "open": 3,
+   "source": "careers page"
+  },
+  "Principal Global Services": {
+   "feed": "browser-json",
+   "open": 5,
+   "source": "careers page"
+  },
+  "Allstate": {
+   "feed": "browser-json",
+   "open": 14,
+   "source": "careers page"
+  },
+  "Aon": {
+   "feed": "browser-json",
+   "open": 13,
+   "source": "careers page"
+  },
+  "Nationwide": {
+   "feed": "workday",
+   "open": 34,
+   "source": "careers page"
   }
  },
  "unreadable": [
@@ -446,7 +551,26 @@
   "smallcase",
   "Ultrahuman",
   "Yellow.ai",
-  "Zluri"
+  "Zluri",
+  "Goldman Sachs",
+  "Morgan Stanley",
+  "HSBC",
+  "Standard Chartered",
+  "UBS",
+  "American Express",
+  "Lloyds Banking Group",
+  "ANZ",
+  "NatWest Group",
+  "Societe Generale",
+  "Chubb",
+  "AXA XL",
+  "Swiss Re",
+  "Zurich Insurance",
+  "The Hartford",
+  "MassMutual",
+  "Marsh McLennan",
+  "Arthur J. Gallagher",
+  "Sun Life"
  ],
  "skipped_robots": [],
  "feed_version": 2,
@@ -469,19 +593,19 @@
   "Licious": "discovery failed (HTTPError); browser found no job list",
   "Mobile Premier League (MPL)": "no address; browser failed (Error)",
   "MoEngage": "page not readable (HTTPError); browser found no job list",
-  "Myntra": "page read but no open job system recognised (probably script-only)",
+  "Myntra": "greenhouse failed (HTTPError); page read but no open job system recognised (probably script-only)",
   "Navi": "page not readable (HTTPError); browser failed (TimeoutError)",
   "Ninjacart": "discovery failed (HTTPError); browser found no job list",
   "Nykaa": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Ola / Krutrim": "no address; browser failed (Error)",
-  "PhonePe": "page read but no open job system recognised (probably script-only)",
-  "Pine Labs": "page not readable (HTTPError); browser found no job list",
+  "PhonePe": "greenhouse failed (HTTPError); page read but no open job system recognised (probably script-only)",
+  "Pine Labs": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Rapido": "page read but no open job system recognised (probably script-only); browser found no job list",
   "ShareChat (Mohalla Tech)": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Udaan": "page not readable (URLError); browser failed (TimeoutError)",
   "Unacademy": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
-  "Uniphore": "page not readable (HTTPError)",
-  "Upstox": "page read but no open job system recognised (probably script-only)",
+  "Uniphore": "lever failed (HTTPError); page not readable (HTTPError)",
+  "Upstox": "lever failed (HTTPError); page read but no open job system recognised (probably script-only)",
   "Zepto": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Zerodha": "page read but no open job system recognised (probably script-only); browser found no job list",
   "ADP": "page not readable (HTTPError); browser found no job list",
@@ -490,7 +614,7 @@
   "Autodesk": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Broadridge": "no address; browser failed (Error)",
   "Cadence": "no address; browser failed (Error)",
-  "Cohesity": "page read but no open job system recognised (probably script-only)",
+  "Cohesity": "greenhouse failed (HTTPError); page read but no open job system recognised (probably script-only)",
   "Confluent": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
   "Cornerstone OnDemand": "no address; browser failed (Error)",
   "Dell Technologies": "page read but no open job system recognised (probably script-only); browser found no job list",
@@ -501,13 +625,13 @@
   "Oracle": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
   "PayPal": "no address; browser failed (Error)",
   "Pegasystems": "page not readable (HTTPError); browser found no job list",
-  "Postman": "page not readable (HTTPError)",
+  "Postman": "greenhouse failed (HTTPError); page not readable (HTTPError)",
   "Rakuten India": "page read but no open job system recognised (probably script-only); browser found no job list",
   "SAP Labs India": "page not readable (HTTPError); browser failed (TimeoutError)",
   "Teradata": "page not readable (HTTPError); browser found no job list",
   "Uber": "page not readable (HTTPError); browser found no job list",
-  "Visa": "page read but no open job system recognised (probably script-only)",
-  "Walmart Global Tech India": "page not readable (URLError)",
+  "Visa": "smartrecruiters feed empty; page read but no open job system recognised (probably script-only)",
+  "Walmart Global Tech India": "workday failed (HTTPError); page not readable (URLError)",
   "Wayfair": "page not readable (HTTPError); browser found no job list",
   "Jupiter (Amica Financial)": "no address; browser failed (Error)",
   "Kore.ai": "page not readable (URLError); browser failed (Error)",
@@ -515,17 +639,36 @@
   "smallcase": "no address; browser failed (Error)",
   "Ultrahuman": "no address; browser failed (Error)",
   "Yellow.ai": "page read but no open job system recognised (probably script-only); browser found no job list",
-  "Zluri": "page read but no open job system recognised (probably script-only); browser found no job list"
+  "Zluri": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Goldman Sachs": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Morgan Stanley": "robots disallow",
+  "HSBC": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Standard Chartered": "discovery failed (JSONDecodeError); browser found no job list",
+  "UBS": "discovery failed (HTTPError); browser found no job list",
+  "American Express": "discovery failed (HTTPError); browser failed (TimeoutError)",
+  "Lloyds Banking Group": "page not readable (URLError); browser failed (Error)",
+  "ANZ": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
+  "NatWest Group": "page not readable (HTTPError); browser failed (TimeoutError)",
+  "Societe Generale": "page not readable (HTTPError); browser found no job list",
+  "Chubb": "; browser failed (TimeoutError)",
+  "AXA XL": "no address; browser failed (Error)",
+  "Swiss Re": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Zurich Insurance": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
+  "The Hartford": "page not readable (HTTPError); browser failed (TimeoutError)",
+  "MassMutual": "no address; browser failed (Error)",
+  "Marsh McLennan": "page not readable (HTTPError); browser found no job list",
+  "Arthur J. Gallagher": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Sun Life": "page not readable (HTTPError); browser found no job list"
  },
  "outside_target_new_dropped": 0,
- "run_utc": "2026-11-21T20:06:08.559527",
- "first_run_baseline": true,
+ "run_utc": "2026-11-21T20:31:07.553196",
+ "first_run_baseline": false,
  "totals": {
-  "companies_read": 76,
-  "open_jobs": 5895,
-  "open_matching": 24,
-  "new": 0,
-  "new_with_description": 0,
-  "backlog_this_run": 0
+  "companies_read": 97,
+  "open_jobs": 7977,
+  "open_matching": 31,
+  "new": 1,
+  "new_with_description": 1,
+  "backlog_this_run": 9
  }
 }
