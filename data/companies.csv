@@ -37,7 +37,7 @@ Pine Labs,C,https://pinelabs.com/careers,,,,Indian product,Bangalore
 Rapido,C,https://www.rapido.bike/Careers,,,,Indian product,Bangalore
 Razorpay,A,https://razorpay.com/careers/,,greenhouse,razorpaysoftwareprivatelimited,Indian product,Bangalore
 ShareChat (Mohalla Tech),C,https://sharechat.com/careers,Dec 2023: ~200 (~15%); later ~5% performance-based cut,,,Indian product,Bangalore
-slice,A,https://slice.bank.in/careers/open-positions,,smartrecruiters,slice1,Indian product,Bangalore
+slice,C,https://slice.bank.in/careers/open-positions,,,,Indian product,Bangalore
 Spinny,C,https://spinny.com/careers,,,,Indian product,Bangalore
 Swiggy,E,https://careers.swiggy.com/,Jan 2024: ~350-400 (~6%),,,Indian product,Bangalore
 Udaan,C,https://careers.udaan.com/,,,,Indian product,Bangalore
@@ -106,7 +106,7 @@ SmartBear,A,https://job-boards.greenhouse.io/smartbear/jobs/7650074003,,greenhou
 Sprinklr,A,https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Karnataka---Bangalore/Operations-Engineer---Senior_110264-JOB,,workday,sprinklr.wd1.myworkdayjobs.com/careers,Global product,Bangalore
 Sumo Logic,A,https://job-boards.greenhouse.io/sumologic/jobs/7584163,,greenhouse,sumologic,Global product,Bangalore
 Synopsys,C,https://careers.synopsys.com/location/india-jobs/44408/1269750/2/3,"2025: ~10% (~2,000) announced Nov for fiscal 2026",,,Global product,"Hyderabad, Bangalore"
-Tekion,A,https://job-boards.greenhouse.io/tekion/jobs/7804970003,,greenhouse,tekion,Global product,"Hyderabad, Bangalore (partly unverified)"
+Tekion,A,https://job-boards.greenhouse.io/tekion/jobs/7804970003,,ashby,tekion,Global product,"Hyderabad, Bangalore (partly unverified)"
 Teradata,C,https://careers.teradata.com/jobs/216560/quality-engineer,,,,Global product,Hyderabad
 Thomson Reuters,C,https://thomsonreuters.com/en/careers/where-we-are/india,,,,Global product,"Hyderabad, Bangalore"
 ThoughtSpot,C,https://www.thoughtspot.com/careers,,,,Global product,"Hyderabad, Bangalore"
@@ -127,12 +127,12 @@ HighLevel,A,https://jobs.lever.co/gohighlevel/c74c91d7-ee0b-4135-9177-e97f8c2d84
 Jeeves,A,https://jobs.lever.co/tryjeeves/d3740d88-8e58-4aba-8c70-3965b6d33774,,lever,tryjeeves,Startup,Remote
 JumpCloud,A,https://jobs.lever.co/jumpcloud/13a4bef2-d1de-4a7e-9c7d-3d0ec5e76a94/apply,,lever,jumpcloud,Startup,Unclear
 Jupiter (Amica Financial),E,,,,,Startup,Unclear
-Kong,A,https://jobs.lever.co/kong/42e29773-9449-41eb-ad0c-2e93d0017bf3,,lever,kong,Startup,Bangalore
+Kong,A,https://jobs.lever.co/kong/42e29773-9449-41eb-ad0c-2e93d0017bf3,,ashby,kong,Startup,Bangalore
 Kore.ai,C,https://reimagine.kore.ai/careers,,,,Startup,Hyderabad
 Level AI,A,https://jobs.lever.co/levelai,,lever,levelai,Startup,"Bangalore, Remote"
 Netomi,A,https://jobs.lever.co/netomi,,lever,netomi,Startup,Remote
 Neuron7,A,https://jobs.lever.co/neuron7/fe2e1697-e326-410b-9a2b-9f8ad338bba5,,lever,neuron7,Startup,Bangalore
-Observe.AI,A,https://jobs.lever.co/observeai/318edefc-fd7e-4cde-a9f7-af04d004bd77,,lever,observeai,Startup,Bangalore
+Observe.AI,A,https://jobs.lever.co/observeai/318edefc-fd7e-4cde-a9f7-af04d004bd77,,greenhouse,observeai,Startup,Bangalore
 Setu,C,https://setu.co/careers/,,,,Startup,Bangalore
 smallcase,E,,,,,Startup,Bangalore
 Sprinto,A,https://jobs.lever.co/Sprinto/2b69b1b5-c342-43ed-b9ee-f39208130867,,lever,Sprinto,Startup,"Bangalore, Remote"
@@ -140,3 +140,43 @@ Ultrahuman,E,,,,,Startup,Bangalore
 ValGenesis,A,https://jobs.lever.co/valgenesis/2b4d5a9f-90b3-4fa2-9da4-3c4ab93662cd/apply,,lever,valgenesis,Startup,Hyderabad
 Yellow.ai,C,https://yellow.ai/career/,,,,Startup,Bangalore
 Zluri,E,https://careers.zluri.com/jobs,,,,Startup,Bangalore
+JPMorgan Chase,C,https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001,,,,Bank GCC,"Hyderabad, Bangalore"
+Goldman Sachs,C,https://www.goldmansachs.com/worldwide/india/engineering-careers,,,,Bank GCC,"Hyderabad, Bangalore"
+Morgan Stanley,C,https://morganstanley.eightfold.ai/careers?location=Bengaluru%2C+Karnataka%2C+India&pid=549774619835&domain=morganstanley.com&sort_by=relevance,,,,Bank GCC,Bangalore
+Wells Fargo,A,https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/Bengaluru-India/Securities-Operations-Associate_R-563929-1,,workday,wf.wd1.myworkdayjobs.com/wellsfargojobs,Bank GCC,"Hyderabad, Bangalore"
+Bank of America (BofA Continuum India),A,https://careers.bankofamerica.com/en-us/job-search/india/q-engineering,,workday,ghr.wd1.myworkdayjobs.com/Lateral-US,Bank GCC,Hyderabad
+HSBC,C,https://www.hsbc.com/hti,,,,Bank GCC,"Hyderabad, Bangalore"
+Deutsche Bank,A,https://db.wd3.myworkdayjobs.com/en-US/DBWebsite,,workday,db.wd3.myworkdayjobs.com/DBWebsite,Bank GCC,Bangalore
+Standard Chartered,C,https://jobs.standardchartered.com/job/Assoc%2C-Quality-Eng%2C-WRB-Tech/64899-en_GB/,,,,Bank GCC,Bangalore
+UBS,C,https://www.ubs.com/global/en/careers/india.html,,,,Bank GCC,Hyderabad
+State Street,A,https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Senior-Quality-Assurance-Engineer--Automation----Associate-Manager_R-794491,,workday,statestreet.wd1.myworkdayjobs.com/Global,Bank GCC,Hyderabad
+Northern Trust,A,https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Principal--SW-Quality-Engineer_R145602,,workday,ntrs.wd1.myworkdayjobs.com/northerntrust,Bank GCC,Bangalore
+Fidelity Investments (FMR India),A,https://india.fidelity.com/job-details/21434801/qa-engineer-full-stack,,workday,fmr.wd1.myworkdayjobs.com/FidelityCareers,Financial GCC,Bangalore
+Fidelity International,A,https://careers.fidelityinternational.com/locations/india/offices/,,workday,fil.wd3.myworkdayjobs.com/001,Financial GCC,Bangalore
+Vanguard,A,https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Hyderabad-India/Application-Engineering-Technical-Lead---II_178346,,workday,vanguard.wd5.myworkdayjobs.com/vanguard_external,Financial GCC,Hyderabad
+Invesco,A,https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Hyderabad-Telangana/Eng-I-II--Eng-Run_R-15867,,workday,invesco.wd1.myworkdayjobs.com/IVZ,Financial GCC,Hyderabad
+American Express,C,https://www.americanexpress.com/en-us/careers/locations/bangalore/,,,,Financial GCC,Bangalore
+Synchrony,A,https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/careers/job/Hyderabad-IN/VP--IS-Risk---Assurance--L12-_2600837/apply,,workday,synchronyfinancial.wd5.myworkdayjobs.com/careers,Financial GCC,Hyderabad
+Capital One,A,https://www.capitalonecareers.com/job/bengaluru/senior-associate-software-engineering/1732/102189966416,,workday,capitalone.wd12.myworkdayjobs.com/Capital_One,Bank GCC,Bangalore
+Lloyds Banking Group,C,https://amslbg.avature.net/careers/JobDetail/Hyderabad-Telangana-India-Senior-Quality-Engineer/4217,,,,Bank GCC,Hyderabad
+ANZ,C,https://careers.anz.com/job/Bengaluru-Quality-Engineer/1361324366/,,,,Bank GCC,Bangalore
+NatWest Group,C,https://jobs.natwestgroup.com/jobs/17171314-quality-automation-specialist,,,,Bank GCC,Bangalore
+Societe Generale,C,https://careers.societegenerale.com/en/job-offers/software-engineer-automation-tesing-26000259-en,,,,Bank GCC,Bangalore
+Commonwealth Bank (CommBank India),A,https://www.commbank.com.au/about-us/careers/india.html,,workday,cba.wd3.myworkdayjobs.com/CommBank_Careers,Bank GCC,Bangalore
+Truist,A,https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Software-Engineer_R0119299,,workday,truist.wd1.myworkdayjobs.com/Careers,Bank GCC,Hyderabad
+Charles Schwab,C,https://www.schwabjobs.com/job/hyderabad/senior-specialist-qa-automation/33995/98215927920,,,,Financial GCC,Hyderabad
+Mastercard,A,https://careers.mastercard.com/us/en/locations,,workday,mastercard.wd1.myworkdayjobs.com/CorporateCareers,Financial GCC,Hyderabad
+Chubb,C,https://about.chubb.com/careers/engineering-centers/india-engineering-center.html,,,,Insurance GCC,"Hyderabad, Bangalore"
+MetLife,C,https://www.metlifecareers.com/en_US/ml,,,,Insurance GCC,Hyderabad
+AXA XL,E,,,,,Insurance GCC,Bangalore
+Swiss Re,C,https://careers.swissre.com/job/Hyderabad-Test-Automation-QA-Engineer-II-TG/1372351933,,,,Insurance GCC,"Hyderabad, Bangalore"
+Zurich Insurance,C,https://www.careers.zurich.com/job/Hyderabad-Head-of-Finance-India-Global-Capability-Center-%28GCC%29/1355206657,,,,Insurance GCC,Hyderabad
+The Hartford,C,https://www.jointhehartford.com/job/6003/ind-senior-staff-associate-engineer-sdet-information-technology-in-telangana-hyderabad/,,,,Insurance GCC,Hyderabad
+MassMutual,E,,,,,Insurance GCC,Hyderabad
+Principal Global Services,C,https://careers.principal.com/in,,,,Insurance GCC,Hyderabad
+Allstate,C,https://www.allstate.jobs/job/22902150/feed,,,,Insurance GCC,Bangalore
+Marsh McLennan,C,https://careers.marshmclennan.com/global/en/india,,,,Insurance GCC,Bangalore
+Aon,C,"https://jobs.aon.com/jobs/69360/Bangalore, India?lang=en-US",,,,Insurance GCC,Bangalore
+Arthur J. Gallagher,C,https://jobs.ajg.com:443/ajg-india,,,,Insurance GCC,Bangalore
+Sun Life,C,https://www.sunlife.com/slgs/en/careers/facilities/,,,,Insurance GCC,Bangalore
+Nationwide,C,https://www.nationwide.com/personal/about-us/careers/locations/india/,,,,Insurance GCC,Hyderabad
