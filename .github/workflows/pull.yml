@@ -1,0 +1,29 @@
+name: pull-jobs
+on:
+  schedule: [{cron: "0 0 * * 1-5"}, {cron: "0 5 * * 1-5"}]  # 5:30 AM and 10:30 AM IST = 90 min before the 7 AM and 12 PM IST reports; GitHub can lag
+  workflow_dispatch:
+permissions: {contents: write}
+jobs:
+  pull:
+    timeout-minutes: 60
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - name: Install headless browser (retries; the pull still runs without it)
+        id: browser
+        continue-on-error: true
+        timeout-minutes: 20
+        run: |
+          pip install playwright
+          for i in 1 2 3; do
+            playwright install --with-deps chromium && exit 0
+            echo "Browser install failed (try $i of 3); waiting before the next try"; sleep 60
+          done
+          exit 1
+      - run: python pull_jobs.py ${{ steps.browser.outcome == 'success' && '--browser' || '' }}
+        timeout-minutes: 40
+      - run: |
+          git config user.name jobbot; git config user.email jobbot@users.noreply.github.com
+          git add data; git commit -m "job feed update" || exit 0; git push
