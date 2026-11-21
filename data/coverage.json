@@ -580,11 +580,6 @@
    "open": 196,
    "source": "careers page"
   },
-  "Philips": {
-   "feed": "phenom",
-   "open": 50,
-   "source": "careers page"
-  },
   "Verint": {
    "feed": "ashby",
    "open": 20,
@@ -800,6 +795,11 @@
    "open": 46,
    "source": "ats slug"
   },
+  "Ericsson": {
+   "feed": "browser-json",
+   "open": 3,
+   "source": "careers page"
+  },
   "Meta": {
    "feed": "browser-links",
    "open": 9,
@@ -809,6 +809,16 @@
    "feed": "smartrecruiters",
    "open": 100,
    "source": "ats slug"
+  },
+  "PwC (Acceleration Centers India)": {
+   "feed": "workday",
+   "open": 211,
+   "source": "ats slug"
+  },
+  "KPMG (India / KGS)": {
+   "feed": "browser-json",
+   "open": 23,
+   "source": "careers page"
   }
  },
  "unreadable": [
@@ -905,6 +915,7 @@
   "Infoblox",
   "Zebra Technologies",
   "Siemens Healthineers",
+  "Philips",
   "Phenom (Phenom People)",
   "SS&C Blue Prism",
   "Clari",
@@ -959,7 +970,6 @@
   "Envestnet",
   "Western Union",
   "Indeed",
-  "Ericsson",
   "Nokia",
   "LG Soft India",
   "Tally Solutions",
@@ -967,14 +977,16 @@
   "Zetwerk",
   "Jumbotail",
   "Bizongo",
-  "Sony India Software Centre"
+  "Sony India Software Centre",
+  "Deloitte (USI)",
+  "EY (GDS India)"
  ],
  "skipped_robots": [],
  "feed_version": 2,
  "why": {
   "Acko": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Amagi": "page read but no open job system recognised (probably script-only); browser found no job list",
-  "Ather Energy": "page not readable (HTTPError); browser found no job list",
+  "Ather Energy": "page not readable (HTTPError); browser failed (TimeoutError)",
   "Chargebee": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Darwinbox": "no address; browser failed (Error)",
   "Delhivery": "no address; browser failed (Error)",
@@ -995,7 +1007,7 @@
   "Ninjacart": "discovery failed (HTTPError); browser found no job list",
   "Nykaa": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Ola / Krutrim": "no address; browser failed (Error)",
-  "Pine Labs": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
+  "Pine Labs": "page not readable (HTTPError); browser failed (TimeoutError)",
   "Rapido": "page read but no open job system recognised (probably script-only); browser found no job list",
   "ShareChat (Mohalla Tech)": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Udaan": "page not readable (URLError); browser failed (TimeoutError)",
@@ -1054,7 +1066,7 @@
   "Marsh McLennan": "page not readable (HTTPError); browser found no job list",
   "Arthur J. Gallagher": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Sun Life": "page not readable (HTTPError); browser found no job list",
-  "Guidewire": "lever failed (HTTPError); page not readable (HTTPError)",
+  "Guidewire": "page not readable (HTTPError); browser found no job list",
   "Hexagon": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Red Hat": "no address; browser failed (Error)",
   "Akamai": "no address; browser failed (Error)",
@@ -1064,11 +1076,12 @@
   "NetScout": "no address; browser failed (Error)",
   "Infoblox": "no address; browser failed (Error)",
   "Zebra Technologies": "no address; browser failed (Error)",
-  "Siemens Healthineers": "page not readable (HTTPError); browser failed (TimeoutError)",
+  "Siemens Healthineers": "discovery failed (JSONDecodeError); browser failed (TimeoutError)",
+  "Philips": "page not readable (TimeoutError); browser failed (TimeoutError)",
   "Phenom (Phenom People)": "no address; browser failed (Error)",
   "SS&C Blue Prism": "no address; browser failed (Error)",
-  "Clari": "lever failed (HTTPError); page not readable (HTTPError)",
-  "Plivo": "lever failed (HTTPError); page not readable (HTTPError)",
+  "Clari": "page not readable (HTTPError); browser found no job list",
+  "Plivo": "page not readable (HTTPError); browser found no job list",
   "Hiver": "discovery failed (HTTPError); browser found no job list",
   "Deel": "no address; browser failed (Error)",
   "Remote.com": "no address; browser failed (Error)",
@@ -1077,16 +1090,16 @@
   "Yubi (CredAvenue)": "no address; browser failed (Error)",
   "DocuSign": "no address; browser failed (Error)",
   "Fyle": "page not readable (URLError); browser failed (Error)",
-  "Nielsen": "lever feed empty; page not readable (HTTPError)",
+  "Nielsen": "page not readable (HTTPError); browser found no job list",
   "MakeMyTrip": "no address; browser failed (Error)",
   "Ola Electric": "no address; browser failed (Error)",
   "BigBasket": "no address; browser failed (Error)",
   "PharmEasy": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Practo": "no address; browser failed (Error)",
   "Cult.fit": "no address; browser failed (Error)",
-  "Jar": "lever failed (HTTPError); page not readable (HTTPError)",
+  "Jar": "page not readable (HTTPError); browser found no job list",
   "Cashfree Payments": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
-  "PayU India": "lever failed (HTTPError); page not readable (HTTPError)",
+  "PayU India": "page not readable (HTTPError); browser found no job list",
   "Open Financial": "no address; browser failed (Error)",
   "Niyo": "no address; browser failed (Error)",
   "Cleartrip": "no address; browser failed (Error)",
@@ -1119,7 +1132,6 @@
   "Envestnet": "no address; browser failed (Error)",
   "Western Union": "page not readable (HTTPError); browser failed (TimeoutError)",
   "Indeed": "page not readable (HTTPError); browser failed (TimeoutError)",
-  "Ericsson": "page not readable (HTTPError); browser failed (TimeoutError)",
   "Nokia": "page read but no open job system recognised (probably script-only); browser found no job list",
   "LG Soft India": "no address; browser failed (Error)",
   "Tally Solutions": "page read but no open job system recognised (probably script-only); browser found no job list",
@@ -1127,17 +1139,19 @@
   "Zetwerk": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Jumbotail": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Bizongo": "discovery failed (HTTPError); browser found no job list",
-  "Sony India Software Centre": "no address; browser failed (Error)"
+  "Sony India Software Centre": "no address; browser failed (Error)",
+  "Deloitte (USI)": "robots disallow",
+  "EY (GDS India)": "page read but no open job system recognised (probably script-only); browser found no job list"
  },
- "outside_target_new_dropped": 11,
- "run_utc": "2026-11-21T21:17:52.798512",
+ "outside_target_new_dropped": 0,
+ "run_utc": "2026-11-21T22:31:13.057759",
  "first_run_baseline": false,
  "totals": {
-  "companies_read": 162,
-  "open_jobs": 15323,
-  "open_matching": 78,
-  "new": 8,
-  "new_with_description": 8,
-  "backlog_this_run": 40
+  "companies_read": 164,
+  "open_jobs": 15510,
+  "open_matching": 70,
+  "new": 0,
+  "new_with_description": 0,
+  "backlog_this_run": 0
  }
 }
