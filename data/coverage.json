@@ -50,6 +50,11 @@
    "open": 19,
    "source": "ats slug"
   },
+  "PhonePe": {
+   "feed": "browser-json",
+   "open": 718,
+   "source": "careers page"
+  },
   "Razorpay": {
    "feed": "greenhouse",
    "open": 29,
@@ -68,11 +73,6 @@
   "Swiggy": {
    "feed": "smartrecruiters",
    "open": 100,
-   "source": "careers page"
-  },
-  "upGrad": {
-   "feed": "browser-json",
-   "open": 3,
    "source": "careers page"
   },
   "Whatfix": {
@@ -295,6 +295,11 @@
    "open": 109,
    "source": "ats slug"
   },
+  "Visa": {
+   "feed": "browser-json",
+   "open": 52,
+   "source": "careers page"
+  },
   "Workato": {
    "feed": "greenhouse",
    "open": 53,
@@ -440,6 +445,11 @@
    "open": 199,
    "source": "ats slug"
   },
+  "NatWest Group": {
+   "feed": "browser-json",
+   "open": 25,
+   "source": "careers page"
+  },
   "Commonwealth Bank (CommBank India)": {
    "feed": "workday",
    "open": 105,
@@ -484,6 +494,321 @@
    "feed": "workday",
    "open": 34,
    "source": "careers page"
+  },
+  "Gainsight": {
+   "feed": "ashby",
+   "open": 20,
+   "source": "ats slug"
+  },
+  "Coupa": {
+   "feed": "lever",
+   "open": 42,
+   "source": "ats slug"
+  },
+  "Model N": {
+   "feed": "lever",
+   "open": 11,
+   "source": "ats slug"
+  },
+  "Ivanti": {
+   "feed": "greenhouse",
+   "open": 14,
+   "source": "ats slug"
+  },
+  "OpenText": {
+   "feed": "phenom",
+   "open": 50,
+   "source": "careers page"
+  },
+  "Progress Software": {
+   "feed": "browser-links",
+   "open": 8,
+   "source": "careers page"
+  },
+  "NVIDIA": {
+   "feed": "workday",
+   "open": 261,
+   "source": "ats slug"
+  },
+  "Arista Networks": {
+   "feed": "smartrecruiters",
+   "open": 100,
+   "source": "ats slug"
+  },
+  "Hewlett Packard Enterprise (incl. Juniper)": {
+   "feed": "workday",
+   "open": 266,
+   "source": "careers page"
+  },
+  "Cloud Software Group (Citrix)": {
+   "feed": "workday",
+   "open": 16,
+   "source": "careers page"
+  },
+  "Elastic": {
+   "feed": "greenhouse",
+   "open": 382,
+   "source": "careers page"
+  },
+  "Couchbase": {
+   "feed": "greenhouse",
+   "open": 17,
+   "source": "ats slug"
+  },
+  "Pure Storage": {
+   "feed": "greenhouse",
+   "open": 401,
+   "source": "ats slug"
+  },
+  "Extreme Networks": {
+   "feed": "lever",
+   "open": 71,
+   "source": "ats slug"
+  },
+  "Hitachi Vantara": {
+   "feed": "workday",
+   "open": 335,
+   "source": "careers page"
+  },
+  "Kaseya": {
+   "feed": "greenhouse",
+   "open": 95,
+   "source": "ats slug"
+  },
+  "GE HealthCare": {
+   "feed": "workday",
+   "open": 196,
+   "source": "careers page"
+  },
+  "Philips": {
+   "feed": "phenom",
+   "open": 50,
+   "source": "careers page"
+  },
+  "Verint": {
+   "feed": "ashby",
+   "open": 20,
+   "source": "ats slug"
+  },
+  "UiPath": {
+   "feed": "ashby",
+   "open": 110,
+   "source": "careers page"
+  },
+  "Automation Anywhere": {
+   "feed": "browser-links",
+   "open": 6,
+   "source": "careers page"
+  },
+  "OutSystems": {
+   "feed": "browser-json",
+   "open": 90,
+   "source": "careers page"
+  },
+  "Celonis": {
+   "feed": "greenhouse",
+   "open": 262,
+   "source": "ats slug"
+  },
+  "Smartsheet": {
+   "feed": "greenhouse",
+   "open": 72,
+   "source": "ats slug"
+  },
+  "Harness": {
+   "feed": "greenhouse",
+   "open": 66,
+   "source": "careers page"
+  },
+  "JFrog": {
+   "feed": "greenhouse",
+   "open": 78,
+   "source": "careers page"
+  },
+  "GitLab": {
+   "feed": "greenhouse",
+   "open": 246,
+   "source": "ats slug"
+  },
+  "Fivetran": {
+   "feed": "greenhouse",
+   "open": 196,
+   "source": "careers page"
+  },
+  "Dynatrace": {
+   "feed": "browser-json",
+   "open": 128,
+   "source": "careers page"
+  },
+  "Simpplr": {
+   "feed": "greenhouse",
+   "open": 5,
+   "source": "ats slug"
+  },
+  "Toast": {
+   "feed": "greenhouse",
+   "open": 326,
+   "source": "ats slug"
+  },
+  "HubSpot": {
+   "feed": "greenhouse",
+   "open": 141,
+   "source": "ats slug"
+  },
+  "CloudSEK": {
+   "feed": "greenhouse",
+   "open": 19,
+   "source": "ats slug"
+  },
+  "Sarvam AI": {
+   "feed": "ashby",
+   "open": 42,
+   "source": "careers page"
+  },
+  "SpotDraft": {
+   "feed": "ashby",
+   "open": 14,
+   "source": "careers page"
+  },
+  "Wingify (VWO)": {
+   "feed": "browser-json",
+   "open": 28,
+   "source": "careers page"
+  },
+  "NielsenIQ": {
+   "feed": "smartrecruiters",
+   "open": 100,
+   "source": "ats slug"
+  },
+  "Paytm": {
+   "feed": "lever",
+   "open": 199,
+   "source": "ats slug"
+  },
+  "Fi Money": {
+   "feed": "lever",
+   "open": 9,
+   "source": "careers page"
+  },
+  "Khatabook": {
+   "feed": "browser-json",
+   "open": 6,
+   "source": "careers page"
+  },
+  "Porter": {
+   "feed": "lever",
+   "open": 20,
+   "source": "careers page"
+  },
+  "Pocket FM": {
+   "feed": "lever",
+   "open": 10,
+   "source": "ats slug"
+  },
+  "Glance (InMobi group)": {
+   "feed": "greenhouse",
+   "open": 26,
+   "source": "ats slug"
+  },
+  "Evernorth (Cigna)": {
+   "feed": "phenom",
+   "open": 50,
+   "source": "careers page"
+  },
+  "Elevance Health (Carelon)": {
+   "feed": "workday",
+   "open": 36,
+   "source": "careers page"
+  },
+  "CVS Health / Aetna": {
+   "feed": "phenom",
+   "open": 50,
+   "source": "careers page"
+  },
+  "Franklin Templeton": {
+   "feed": "phenom",
+   "open": 50,
+   "source": "careers page"
+  },
+  "Nasdaq": {
+   "feed": "workday",
+   "open": 111,
+   "source": "careers page"
+  },
+  "London Stock Exchange Group (LSEG)": {
+   "feed": "workday",
+   "open": 158,
+   "source": "ats slug"
+  },
+  "Moody's": {
+   "feed": "browser-json",
+   "open": 18,
+   "source": "careers page"
+  },
+  "DBS Tech India": {
+   "feed": "workday",
+   "open": 140,
+   "source": "ats slug"
+  },
+  "Arcesium": {
+   "feed": "greenhouse",
+   "open": 44,
+   "source": "ats slug"
+  },
+  "BlackRock": {
+   "feed": "browser-json",
+   "open": 9,
+   "source": "careers page"
+  },
+  "Paysafe": {
+   "feed": "browser-json",
+   "open": 64,
+   "source": "careers page"
+  },
+  "Clearwater Analytics": {
+   "feed": "greenhouse",
+   "open": 15,
+   "source": "careers page"
+  },
+  "Intel": {
+   "feed": "workday",
+   "open": 265,
+   "source": "ats slug"
+  },
+  "AMD": {
+   "feed": "browser-json",
+   "open": 736,
+   "source": "careers page"
+  },
+  "Warner Bros. Discovery": {
+   "feed": "phenom",
+   "open": 50,
+   "source": "careers page"
+  },
+  "Blue Yonder": {
+   "feed": "phenom",
+   "open": 40,
+   "source": "careers page"
+  },
+  "Skillsoft (SumTotal)": {
+   "feed": "greenhouse",
+   "open": 9,
+   "source": "careers page"
+  },
+  "MiQ": {
+   "feed": "greenhouse",
+   "open": 46,
+   "source": "ats slug"
+  },
+  "Meta": {
+   "feed": "browser-links",
+   "open": 9,
+   "source": "careers page"
+  },
+  "Western Digital": {
+   "feed": "smartrecruiters",
+   "open": 100,
+   "source": "ats slug"
   }
  },
  "unreadable": [
@@ -510,13 +835,13 @@
   "Ninjacart",
   "Nykaa",
   "Ola / Krutrim",
-  "PhonePe",
   "Pine Labs",
   "Rapido",
   "ShareChat (Mohalla Tech)",
   "Udaan",
   "Unacademy",
   "Uniphore",
+  "upGrad",
   "Upstox",
   "Zepto",
   "Zerodha",
@@ -542,7 +867,6 @@
   "SAP Labs India",
   "Teradata",
   "Uber",
-  "Visa",
   "Walmart Global Tech India",
   "Wayfair",
   "Jupiter (Amica Financial)",
@@ -560,7 +884,6 @@
   "American Express",
   "Lloyds Banking Group",
   "ANZ",
-  "NatWest Group",
   "Societe Generale",
   "Chubb",
   "AXA XL",
@@ -570,14 +893,88 @@
   "MassMutual",
   "Marsh McLennan",
   "Arthur J. Gallagher",
-  "Sun Life"
+  "Sun Life",
+  "Guidewire",
+  "Hexagon",
+  "Red Hat",
+  "Akamai",
+  "Sabre",
+  "Amadeus",
+  "Ciena",
+  "NetScout",
+  "Infoblox",
+  "Zebra Technologies",
+  "Siemens Healthineers",
+  "Phenom (Phenom People)",
+  "SS&C Blue Prism",
+  "Clari",
+  "Plivo",
+  "Hiver",
+  "Deel",
+  "Remote.com",
+  "Media.net",
+  "Vymo",
+  "Yubi (CredAvenue)",
+  "DocuSign",
+  "Fyle",
+  "Nielsen",
+  "MakeMyTrip",
+  "Ola Electric",
+  "BigBasket",
+  "PharmEasy",
+  "Practo",
+  "Cult.fit",
+  "Jar",
+  "Cashfree Payments",
+  "PayU India",
+  "Open Financial",
+  "Niyo",
+  "Cleartrip",
+  "redBus",
+  "BlackBuck",
+  "Locus",
+  "Increff",
+  "Dailyhunt (VerSe Innovation)",
+  "Vedantu",
+  "Scaler (InterviewBit)",
+  "Uni Cards",
+  "Scapia",
+  "Rupeek",
+  "Optum (UnitedHealth Group)",
+  "Intercontinental Exchange (ICE)",
+  "S&P Global",
+  "FactSet",
+  "FIS",
+  "Fiserv",
+  "D. E. Shaw India",
+  "TransUnion",
+  "Citizens Financial Group",
+  "Ameriprise Financial",
+  "BNP Paribas",
+  "WEX",
+  "SS&C Technologies",
+  "Temenos",
+  "Finastra",
+  "ACI Worldwide",
+  "Envestnet",
+  "Western Union",
+  "Indeed",
+  "Ericsson",
+  "Nokia",
+  "LG Soft India",
+  "Tally Solutions",
+  "EdgeVerve (Finacle)",
+  "Zetwerk",
+  "Jumbotail",
+  "Bizongo",
+  "Sony India Software Centre"
  ],
  "skipped_robots": [],
  "feed_version": 2,
  "why": {
   "Acko": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Amagi": "page read but no open job system recognised (probably script-only); browser found no job list",
-  "Ather Energy": "page not readable (HTTPError); browser failed (TimeoutError)",
+  "Ather Energy": "page not readable (HTTPError); browser found no job list",
   "Chargebee": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Darwinbox": "no address; browser failed (Error)",
   "Delhivery": "no address; browser failed (Error)",
@@ -593,19 +990,19 @@
   "Licious": "discovery failed (HTTPError); browser found no job list",
   "Mobile Premier League (MPL)": "no address; browser failed (Error)",
   "MoEngage": "page not readable (HTTPError); browser found no job list",
-  "Myntra": "greenhouse failed (HTTPError); page read but no open job system recognised (probably script-only)",
+  "Myntra": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Navi": "page not readable (HTTPError); browser failed (TimeoutError)",
   "Ninjacart": "discovery failed (HTTPError); browser found no job list",
   "Nykaa": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Ola / Krutrim": "no address; browser failed (Error)",
-  "PhonePe": "greenhouse failed (HTTPError); page read but no open job system recognised (probably script-only)",
-  "Pine Labs": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Pine Labs": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
   "Rapido": "page read but no open job system recognised (probably script-only); browser found no job list",
   "ShareChat (Mohalla Tech)": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Udaan": "page not readable (URLError); browser failed (TimeoutError)",
   "Unacademy": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
-  "Uniphore": "lever failed (HTTPError); page not readable (HTTPError)",
-  "Upstox": "lever failed (HTTPError); page read but no open job system recognised (probably script-only)",
+  "Uniphore": "page not readable (HTTPError); browser found no job list",
+  "upGrad": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Upstox": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Zepto": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Zerodha": "page read but no open job system recognised (probably script-only); browser found no job list",
   "ADP": "page not readable (HTTPError); browser found no job list",
@@ -614,7 +1011,7 @@
   "Autodesk": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Broadridge": "no address; browser failed (Error)",
   "Cadence": "no address; browser failed (Error)",
-  "Cohesity": "greenhouse failed (HTTPError); page read but no open job system recognised (probably script-only)",
+  "Cohesity": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Confluent": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
   "Cornerstone OnDemand": "no address; browser failed (Error)",
   "Dell Technologies": "page read but no open job system recognised (probably script-only); browser found no job list",
@@ -625,13 +1022,12 @@
   "Oracle": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
   "PayPal": "no address; browser failed (Error)",
   "Pegasystems": "page not readable (HTTPError); browser found no job list",
-  "Postman": "greenhouse failed (HTTPError); page not readable (HTTPError)",
+  "Postman": "page not readable (HTTPError); browser found no job list",
   "Rakuten India": "page read but no open job system recognised (probably script-only); browser found no job list",
   "SAP Labs India": "page not readable (HTTPError); browser failed (TimeoutError)",
   "Teradata": "page not readable (HTTPError); browser found no job list",
   "Uber": "page not readable (HTTPError); browser found no job list",
-  "Visa": "smartrecruiters feed empty; page read but no open job system recognised (probably script-only)",
-  "Walmart Global Tech India": "workday failed (HTTPError); page not readable (URLError)",
+  "Walmart Global Tech India": "page not readable (URLError); browser failed (Error)",
   "Wayfair": "page not readable (HTTPError); browser found no job list",
   "Jupiter (Amica Financial)": "no address; browser failed (Error)",
   "Kore.ai": "page not readable (URLError); browser failed (Error)",
@@ -648,7 +1044,6 @@
   "American Express": "discovery failed (HTTPError); browser failed (TimeoutError)",
   "Lloyds Banking Group": "page not readable (URLError); browser failed (Error)",
   "ANZ": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
-  "NatWest Group": "page not readable (HTTPError); browser failed (TimeoutError)",
   "Societe Generale": "page not readable (HTTPError); browser found no job list",
   "Chubb": "; browser failed (TimeoutError)",
   "AXA XL": "no address; browser failed (Error)",
@@ -658,17 +1053,91 @@
   "MassMutual": "no address; browser failed (Error)",
   "Marsh McLennan": "page not readable (HTTPError); browser found no job list",
   "Arthur J. Gallagher": "page read but no open job system recognised (probably script-only); browser found no job list",
-  "Sun Life": "page not readable (HTTPError); browser found no job list"
+  "Sun Life": "page not readable (HTTPError); browser found no job list",
+  "Guidewire": "lever failed (HTTPError); page not readable (HTTPError)",
+  "Hexagon": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Red Hat": "no address; browser failed (Error)",
+  "Akamai": "no address; browser failed (Error)",
+  "Sabre": "no address; browser failed (Error)",
+  "Amadeus": "no address; browser failed (Error)",
+  "Ciena": "no address; browser failed (Error)",
+  "NetScout": "no address; browser failed (Error)",
+  "Infoblox": "no address; browser failed (Error)",
+  "Zebra Technologies": "no address; browser failed (Error)",
+  "Siemens Healthineers": "page not readable (HTTPError); browser failed (TimeoutError)",
+  "Phenom (Phenom People)": "no address; browser failed (Error)",
+  "SS&C Blue Prism": "no address; browser failed (Error)",
+  "Clari": "lever failed (HTTPError); page not readable (HTTPError)",
+  "Plivo": "lever failed (HTTPError); page not readable (HTTPError)",
+  "Hiver": "discovery failed (HTTPError); browser found no job list",
+  "Deel": "no address; browser failed (Error)",
+  "Remote.com": "no address; browser failed (Error)",
+  "Media.net": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Vymo": "no address; browser failed (Error)",
+  "Yubi (CredAvenue)": "no address; browser failed (Error)",
+  "DocuSign": "no address; browser failed (Error)",
+  "Fyle": "page not readable (URLError); browser failed (Error)",
+  "Nielsen": "lever feed empty; page not readable (HTTPError)",
+  "MakeMyTrip": "no address; browser failed (Error)",
+  "Ola Electric": "no address; browser failed (Error)",
+  "BigBasket": "no address; browser failed (Error)",
+  "PharmEasy": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Practo": "no address; browser failed (Error)",
+  "Cult.fit": "no address; browser failed (Error)",
+  "Jar": "lever failed (HTTPError); page not readable (HTTPError)",
+  "Cashfree Payments": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
+  "PayU India": "lever failed (HTTPError); page not readable (HTTPError)",
+  "Open Financial": "no address; browser failed (Error)",
+  "Niyo": "no address; browser failed (Error)",
+  "Cleartrip": "no address; browser failed (Error)",
+  "redBus": "no address; browser failed (Error)",
+  "BlackBuck": "no address; browser failed (Error)",
+  "Locus": "no address; browser failed (Error)",
+  "Increff": "no address; browser failed (Error)",
+  "Dailyhunt (VerSe Innovation)": "no address; browser failed (Error)",
+  "Vedantu": "no address; browser failed (Error)",
+  "Scaler (InterviewBit)": "no address; browser failed (Error)",
+  "Uni Cards": "no address; browser failed (Error)",
+  "Scapia": "no address; browser failed (Error)",
+  "Rupeek": "no address; browser failed (Error)",
+  "Optum (UnitedHealth Group)": "discovery failed (HTTPError); browser found no job list",
+  "Intercontinental Exchange (ICE)": "no address; browser failed (Error)",
+  "S&P Global": "no address; browser failed (Error)",
+  "FactSet": "no address; browser failed (Error)",
+  "FIS": "no address; browser failed (Error)",
+  "Fiserv": "no address; browser failed (Error)",
+  "D. E. Shaw India": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "TransUnion": "no address; browser failed (Error)",
+  "Citizens Financial Group": "no address; browser failed (Error)",
+  "Ameriprise Financial": "page not readable (URLError); browser failed (Error)",
+  "BNP Paribas": "page not readable (HTTPError); browser found no job list",
+  "WEX": "no address; browser failed (Error)",
+  "SS&C Technologies": "no address; browser failed (Error)",
+  "Temenos": "no address; browser failed (Error)",
+  "Finastra": "no address; browser failed (Error)",
+  "ACI Worldwide": "no address; browser failed (Error)",
+  "Envestnet": "no address; browser failed (Error)",
+  "Western Union": "page not readable (HTTPError); browser failed (TimeoutError)",
+  "Indeed": "page not readable (HTTPError); browser failed (TimeoutError)",
+  "Ericsson": "page not readable (HTTPError); browser failed (TimeoutError)",
+  "Nokia": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "LG Soft India": "no address; browser failed (Error)",
+  "Tally Solutions": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "EdgeVerve (Finacle)": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Zetwerk": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Jumbotail": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Bizongo": "discovery failed (HTTPError); browser found no job list",
+  "Sony India Software Centre": "no address; browser failed (Error)"
  },
- "outside_target_new_dropped": 0,
- "run_utc": "2026-11-21T20:31:07.553196",
+ "outside_target_new_dropped": 11,
+ "run_utc": "2026-11-21T21:17:52.798512",
  "first_run_baseline": false,
  "totals": {
-  "companies_read": 97,
-  "open_jobs": 7977,
-  "open_matching": 31,
-  "new": 1,
-  "new_with_description": 1,
-  "backlog_this_run": 9
+  "companies_read": 162,
+  "open_jobs": 15323,
+  "open_matching": 78,
+  "new": 8,
+  "new_with_description": 8,
+  "backlog_this_run": 40
  }
 }
