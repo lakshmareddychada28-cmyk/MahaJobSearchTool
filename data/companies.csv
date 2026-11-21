@@ -186,7 +186,7 @@ Model N,A,https://jobs.lever.co/modeln,,lever,modeln,Global product,Hyderabad
 Ivanti,A,https://job-boards.greenhouse.io/a3c41b8b71eff8c4,,greenhouse,a3c41b8b71eff8c4,Global product,"Hyderabad, Bangalore"
 OpenText,C,https://careers.opentext.com/,,,,Global product,"Hyderabad, Bangalore"
 Progress Software,C,https://jobs.jobvite.com/progress,,,,Global product,"Hyderabad, Bangalore"
-Guidewire,A,https://jobs.lever.co/guidewire,,lever,guidewire,Global product,Bangalore
+Guidewire,C,https://jobs.lever.co/guidewire,,,,Global product,Bangalore
 Hexagon,C,https://careers.hexagon.com/,,,,Global product,Hyderabad
 NVIDIA,A,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite,,workday,nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite,Global product,"Hyderabad, Bangalore"
 Arista Networks,A,https://jobs.smartrecruiters.com/AristaNetworks,,smartrecruiters,AristaNetworks,Global product,Bangalore
@@ -217,13 +217,13 @@ SS&C Blue Prism,E,,,,,Global product,"Hyderabad, Bangalore"
 OutSystems,C,https://www.outsystems.com/careers,,,,Global product,Bangalore
 Celonis,A,https://job-boards.greenhouse.io/celonis/jobs/7635358003,,greenhouse,celonis,Global product,Bangalore
 Smartsheet,A,https://job-boards.greenhouse.io/smartsheet/jobs/7682078,,greenhouse,smartsheet,Global product,Bangalore
-Clari,A,https://jobs.lever.co/clari/a7435ebc-fe07-43a6-a197-f27ce2d26c11,,lever,clari,Startup,"Bangalore, Remote"
+Clari,C,https://jobs.lever.co/clari/a7435ebc-fe07-43a6-a197-f27ce2d26c11,,,,Startup,"Bangalore, Remote"
 Harness,C,https://www.harness.io/company/careers/india,,,,Startup,"Hyderabad, Bangalore"
 JFrog,C,https://join.jfrog.com/job/7464318-automation-engineer-sdet/,,,,Global product,Bangalore
 GitLab,A,https://job-boards.greenhouse.io/gitlab/jobs/8648964002,,greenhouse,gitlab,Global product,"Bangalore, Remote"
 Fivetran,E,,,,,Startup,Bangalore
 Dynatrace,C,https://apply.careers.dynatrace.com/job/Bengaluru-QE-Automation-Engineer-Karn-560036/1321386400,,,,Global product,Bangalore
-Plivo,A,https://jobs.lever.co/plivo/1df3640f-8147-46cf-b8b2-0db09bbd2d07,,lever,plivo,Startup,Bangalore
+Plivo,C,https://jobs.lever.co/plivo/1df3640f-8147-46cf-b8b2-0db09bbd2d07,,,,Startup,Bangalore
 Hiver,C,https://hiverhq.com/careers,,,,Startup,Bangalore
 Simpplr,A,https://job-boards.greenhouse.io/simpplr/jobs/5663965004,,greenhouse,simpplr,Startup,"Bangalore, Remote"
 Deel,E,,,,,Startup,"Hyderabad, Remote"
@@ -240,7 +240,7 @@ DocuSign,E,,,,,Global product,Bangalore
 Fyle,C,https://careers.fylehq.com/,,,,Startup,Bangalore
 Wingify (VWO),C,https://wingify.com/careers/,,,,Indian product,Remote
 NielsenIQ,A,https://jobs.smartrecruiters.com/NielsenIQ/744000094830905-qa-engineer,,smartrecruiters,NielsenIQ,Global product,Bangalore
-Nielsen,A,https://jobs.lever.co/nielsen/1f783c6a-3839-480e-ad80-501f2325d460,,lever,nielsen,Global product,Bangalore
+Nielsen,C,https://jobs.lever.co/nielsen/1f783c6a-3839-480e-ad80-501f2325d460,,,,Global product,Bangalore
 Paytm,A,https://jobs.lever.co/paytm/c76d9bfb-f837-4949-ad9a-b337c8a74c22,,lever,paytm,Indian product,Bangalore
 MakeMyTrip,E,,,,,Indian product,Bangalore
 Ola Electric,E,,,,,Indian product,Bangalore
@@ -249,10 +249,10 @@ PharmEasy,C,https://pharmeasy.in/careers,,,,Indian product,Bangalore
 Practo,E,,,,,Indian product,Bangalore
 Cult.fit,E,,,,,Indian product,Bangalore
 Fi Money,E,,,,,Startup,Bangalore
-Jar,A,https://jobs.lever.co/jar-app/bb5d4cfd-2988-4837-b921-efdf75fc901e,,lever,jar-app,Startup,Bangalore
+Jar,C,https://jobs.lever.co/jar-app/bb5d4cfd-2988-4837-b921-efdf75fc901e,,,,Startup,Bangalore
 Khatabook,C,https://www.khatabook.com/careers,,,,Startup,Bangalore
 Cashfree Payments,C,https://cashfree.com/careers,,,,Startup,Bangalore
-PayU India,A,https://jobs.eu.lever.co/payu/37759fe2-8f03-4b6a-8d74-bc44330b4c18,,lever,eu:payu,Global product,Bangalore
+PayU India,C,https://jobs.eu.lever.co/payu/37759fe2-8f03-4b6a-8d74-bc44330b4c18,,,,Global product,Bangalore
 Open Financial,E,,,,,Startup,Bangalore
 Niyo,E,,,,,Startup,Bangalore
 Cleartrip,E,,,,,Indian product,Bangalore
