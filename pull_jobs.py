@@ -10,7 +10,7 @@ import csv, json, os, re, sys, time, urllib.request, urllib.robotparser, datetim
 from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import urlparse
 UA = "mahajobsearchtool/1.0 (personal job-feed reader)"
-TITLE = re.compile(r"\bqa\b|\bqe\b|quality (assurance|engineer|engineering|analyst)|\bsdet\b|\bsdet[- ]?\d|software (development )?engineer,? (in|-) test|test(ing)? (engineer|analyst|automation|specialist)|automation (test|qa)|qa automation|tester\b|software test", re.I)
+TITLE = re.compile(r"\bqa\b|\bqe\b|quality (assurance|engineer|engineering|analyst)|\bsdet\b|\bsdet[- ]?\d|software (development )?engineer,? (in|-) test|test(ing)? (engineer|analyst|automation|specialist)|automation (test|qa)|qa automation|test (&|and) automation|tester\b|software test", re.I)
 SKIP = re.compile(r"senior|\bsr\b|staff|principal|lead|manager|director|head\b|architect|intern\b|vp\b|account executive|sales|technician|recruiter|marketing|hardware|silicon|asic|sram|std cell|analog|thermal|\bhil\b|physical design|design automation|kyc|\baml\b|compliance|claims|underwrit|fund accounting|investment services|\bsoc\b|validation engineer|mechanical|manufacturing|supplier|clinical|food|construction", re.I)
 def get(url, data=None, headers=None):
     h = {"User-Agent": UA, "Accept": "application/json"}; h.update(headers or {})
