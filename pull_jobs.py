@@ -205,7 +205,9 @@ def recent(posted, days=2):
     if m: return int(m.group(1)) <= days
     try: return (dt.datetime.utcnow() - dt.datetime.fromisoformat(p[:19].replace("Z", ""))).days <= days
     except ValueError: return False
-def match(j): return TITLE.search(j["title"]) and not SKIP.search(j["title"])
+def match(j):
+    t = re.sub(r"[_|]+", " ", j["title"])   # PwC-style titles use underscores as separators
+    return TITLE.search(t) and not SKIP.search(t)
 TARGET = re.compile(r"\b(hyderabad|secunderabad|telangana|bangalore|bengaluru|karnataka)\b", re.I)
 INDIA = re.compile(r"\b(india|ind)\b", re.I)
 REMOTE = re.compile(r"remote|work from home|wfh|anywhere", re.I)
