@@ -48,7 +48,9 @@ def greenhouse(c, s):
     d = get(f"https://{host}/v1/boards/{s}/jobs?content=true")
     return [job(c, j["title"], j["location"]["name"], j["absolute_url"], j["id"], j.get("updated_at"), j.get("content","")) for j in d["jobs"]]
 def lever(c, s):
-    d = get(f"https://api.lever.co/v0/postings/{s}?mode=json")
+    host = "api.lever.co"
+    if s.startswith("eu:"): host, s = "api.eu.lever.co", s[3:]
+    d = get(f"https://{host}/v0/postings/{s}?mode=json")
     return [job(c, j["text"], j["categories"].get("location"), j["hostedUrl"], j["id"], dt.datetime.utcfromtimestamp(j["createdAt"] / 1000).isoformat(), j.get("descriptionPlain","")) for j in d]
 def ashby(c, s):
     d = get(f"https://api.ashbyhq.com/posting-api/job-board/{s}")

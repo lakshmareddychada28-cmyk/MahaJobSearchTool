@@ -2,7 +2,7 @@
 Pulls open QA / SDET / test automation jobs from product companies and bank, financial and insurance capability centres' own public ATS feeds (no job boards),
 for roles in Hyderabad, Bangalore or remote India. Run: python pull_jobs.py
 
-Company list = data/companies.csv: product companies, plus the global capability centres (GCCs) of banks, financial firms and insurers in Hyderabad and Bangalore (no IT services, consulting or staffing firms).
+Company list = data/companies.csv (about 300 rows): product companies, plus the global capability centres (GCCs) of banks, financial firms and insurers in Hyderabad and Bangalore (no IT services, consulting or staffing firms).
 Columns: Company, Portal status, Careers address, Layoffs 3yr, ATS, Slug, Category, India locations.
 - ATS + Slug filled: the pull reads that public feed directly (Greenhouse, Lever, Ashby, SmartRecruiters, Workday).
 - Otherwise the pull reads the careers page and uses the job system it points to, or a headless browser where robots.txt allows.
