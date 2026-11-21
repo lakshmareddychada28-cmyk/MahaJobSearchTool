@@ -1,0 +1,531 @@
+{
+ "read": {
+  "BrowserStack": {
+   "feed": "workday",
+   "open": 34,
+   "source": "ats slug"
+  },
+  "CleverTap": {
+   "feed": "browser-json",
+   "open": 32,
+   "source": "careers page"
+  },
+  "CRED": {
+   "feed": "lever",
+   "open": 11,
+   "source": "ats slug"
+  },
+  "Exotel": {
+   "feed": "browser-json",
+   "open": 38,
+   "source": "careers page"
+  },
+  "Freshworks": {
+   "feed": "smartrecruiters",
+   "open": 100,
+   "source": "ats slug"
+  },
+  "Groww": {
+   "feed": "greenhouse",
+   "open": 9,
+   "source": "ats slug"
+  },
+  "HighRadius": {
+   "feed": "greenhouse",
+   "open": 65,
+   "source": "careers page"
+  },
+  "InMobi": {
+   "feed": "greenhouse",
+   "open": 75,
+   "source": "ats slug"
+  },
+  "Meesho": {
+   "feed": "lever",
+   "open": 48,
+   "source": "ats slug"
+  },
+  "Mindtickle": {
+   "feed": "lever",
+   "open": 19,
+   "source": "ats slug"
+  },
+  "Razorpay": {
+   "feed": "greenhouse",
+   "open": 29,
+   "source": "ats slug"
+  },
+  "slice": {
+   "feed": "greenhouse",
+   "open": 22,
+   "source": "ats slug"
+  },
+  "Spinny": {
+   "feed": "browser-json",
+   "open": 6,
+   "source": "careers page"
+  },
+  "Swiggy": {
+   "feed": "smartrecruiters",
+   "open": 100,
+   "source": "careers page"
+  },
+  "upGrad": {
+   "feed": "browser-json",
+   "open": 3,
+   "source": "careers page"
+  },
+  "Whatfix": {
+   "feed": "browser-json",
+   "open": 21,
+   "source": "careers page"
+  },
+  "Zenoti": {
+   "feed": "greenhouse",
+   "open": 56,
+   "source": "ats slug"
+  },
+  "Zeta": {
+   "feed": "lever",
+   "open": 33,
+   "source": "ats slug"
+  },
+  "Adobe": {
+   "feed": "workday",
+   "open": 164,
+   "source": "ats slug"
+  },
+  "Amazon": {
+   "feed": "amazon",
+   "open": 39,
+   "source": "careers page"
+  },
+  "Apple": {
+   "feed": "browser-json",
+   "open": 11,
+   "source": "careers page"
+  },
+  "Broadcom (VMware)": {
+   "feed": "workday",
+   "open": 149,
+   "source": "ats slug"
+  },
+  "Cisco": {
+   "feed": "phenom",
+   "open": 21,
+   "source": "careers page"
+  },
+  "Commvault": {
+   "feed": "greenhouse",
+   "open": 56,
+   "source": "ats slug"
+  },
+  "Databricks": {
+   "feed": "greenhouse",
+   "open": 895,
+   "source": "ats slug"
+  },
+  "Eightfold AI": {
+   "feed": "browser-json",
+   "open": 25,
+   "source": "careers page"
+  },
+  "Electronic Arts": {
+   "feed": "browser-links",
+   "open": 5,
+   "source": "careers page"
+  },
+  "Expedia Group": {
+   "feed": "workday",
+   "open": 68,
+   "source": "ats slug"
+  },
+  "Experian": {
+   "feed": "smartrecruiters",
+   "open": 100,
+   "source": "ats slug"
+  },
+  "F5": {
+   "feed": "workday",
+   "open": 86,
+   "source": "ats slug"
+  },
+  "Glean": {
+   "feed": "greenhouse",
+   "open": 129,
+   "source": "ats slug"
+  },
+  "GoGuardian": {
+   "feed": "greenhouse",
+   "open": 11,
+   "source": "ats slug"
+  },
+  "HackerRank": {
+   "feed": "greenhouse",
+   "open": 31,
+   "source": "ats slug"
+  },
+  "InvoiceCloud": {
+   "feed": "greenhouse",
+   "open": 20,
+   "source": "careers page"
+  },
+  "LinkedIn": {
+   "feed": "lever",
+   "open": 23,
+   "source": "careers page"
+  },
+  "Matillion": {
+   "feed": "lever",
+   "open": 17,
+   "source": "ats slug"
+  },
+  "Narvar": {
+   "feed": "greenhouse",
+   "open": 4,
+   "source": "ats slug"
+  },
+  "NetApp": {
+   "feed": "eightfold",
+   "open": 10,
+   "source": "careers page"
+  },
+  "New Relic": {
+   "feed": "greenhouse",
+   "open": 42,
+   "source": "ats slug"
+  },
+  "Nutanix": {
+   "feed": "browser-links",
+   "open": 41,
+   "source": "careers page"
+  },
+  "Okta": {
+   "feed": "greenhouse",
+   "open": 372,
+   "source": "ats slug"
+  },
+  "Omnissa": {
+   "feed": "workday",
+   "open": 54,
+   "source": "ats slug"
+  },
+  "Palo Alto Networks": {
+   "feed": "workday",
+   "open": 166,
+   "source": "careers page"
+  },
+  "Poppulo": {
+   "feed": "greenhouse",
+   "open": 14,
+   "source": "ats slug"
+  },
+  "Qualcomm": {
+   "feed": "browser-json",
+   "open": 98,
+   "source": "careers page"
+  },
+  "Rippling": {
+   "feed": "browser-json",
+   "open": 50,
+   "source": "careers page"
+  },
+  "Rubrik": {
+   "feed": "greenhouse",
+   "open": 208,
+   "source": "ats slug"
+  },
+  "Salesforce": {
+   "feed": "workday",
+   "open": 153,
+   "source": "ats slug"
+  },
+  "Samsung R&D Institute Bangalore": {
+   "feed": "workday",
+   "open": 204,
+   "source": "careers page"
+  },
+  "ServiceNow": {
+   "feed": "smartrecruiters",
+   "open": 100,
+   "source": "ats slug"
+  },
+  "SmartBear": {
+   "feed": "greenhouse",
+   "open": 12,
+   "source": "ats slug"
+  },
+  "Sprinklr": {
+   "feed": "workday",
+   "open": 28,
+   "source": "ats slug"
+  },
+  "Sumo Logic": {
+   "feed": "greenhouse",
+   "open": 26,
+   "source": "ats slug"
+  },
+  "Synopsys": {
+   "feed": "browser-json",
+   "open": 232,
+   "source": "careers page"
+  },
+  "Tekion": {
+   "feed": "ashby",
+   "open": 92,
+   "source": "ats slug"
+  },
+  "Thomson Reuters": {
+   "feed": "browser-json",
+   "open": 268,
+   "source": "careers page"
+  },
+  "ThoughtSpot": {
+   "feed": "browser-json",
+   "open": 46,
+   "source": "careers page"
+  },
+  "Tricentis": {
+   "feed": "workday",
+   "open": 31,
+   "source": "ats slug"
+  },
+  "Twilio": {
+   "feed": "greenhouse",
+   "open": 109,
+   "source": "ats slug"
+  },
+  "Workato": {
+   "feed": "greenhouse",
+   "open": 53,
+   "source": "ats slug"
+  },
+  "Zscaler": {
+   "feed": "greenhouse",
+   "open": 387,
+   "source": "ats slug"
+  },
+  "Acceldata": {
+   "feed": "lever",
+   "open": 41,
+   "source": "ats slug"
+  },
+  "Atlan": {
+   "feed": "ashby",
+   "open": 7,
+   "source": "ats slug"
+  },
+  "ConverseNow": {
+   "feed": "lever",
+   "open": 8,
+   "source": "ats slug"
+  },
+  "Hasura (PromptQL)": {
+   "feed": "browser-json",
+   "open": 16,
+   "source": "careers page"
+  },
+  "Hevo Data": {
+   "feed": "lever",
+   "open": 40,
+   "source": "ats slug"
+  },
+  "HighLevel": {
+   "feed": "lever",
+   "open": 90,
+   "source": "ats slug"
+  },
+  "Jeeves": {
+   "feed": "lever",
+   "open": 79,
+   "source": "ats slug"
+  },
+  "JumpCloud": {
+   "feed": "lever",
+   "open": 32,
+   "source": "ats slug"
+  },
+  "Kong": {
+   "feed": "ashby",
+   "open": 126,
+   "source": "ats slug"
+  },
+  "Level AI": {
+   "feed": "lever",
+   "open": 19,
+   "source": "ats slug"
+  },
+  "Netomi": {
+   "feed": "lever",
+   "open": 18,
+   "source": "ats slug"
+  },
+  "Neuron7": {
+   "feed": "lever",
+   "open": 18,
+   "source": "ats slug"
+  },
+  "Observe.AI": {
+   "feed": "greenhouse",
+   "open": 10,
+   "source": "ats slug"
+  },
+  "Sprinto": {
+   "feed": "lever",
+   "open": 27,
+   "source": "ats slug"
+  },
+  "ValGenesis": {
+   "feed": "lever",
+   "open": 13,
+   "source": "ats slug"
+  }
+ },
+ "unreadable": [
+  "Acko",
+  "Amagi",
+  "Ather Energy",
+  "Chargebee",
+  "Darwinbox",
+  "Delhivery",
+  "Eternal (Zomato / Blinkit)",
+  "Flipkart",
+  "Games24x7",
+  "Go Digit Insurance",
+  "Juspay",
+  "Keka",
+  "KreditBee",
+  "LeadSquared",
+  "Lenskart",
+  "Licious",
+  "Mobile Premier League (MPL)",
+  "MoEngage",
+  "Myntra",
+  "Navi",
+  "Ninjacart",
+  "Nykaa",
+  "Ola / Krutrim",
+  "PhonePe",
+  "Pine Labs",
+  "Rapido",
+  "ShareChat (Mohalla Tech)",
+  "Udaan",
+  "Unacademy",
+  "Uniphore",
+  "Upstox",
+  "Zepto",
+  "Zerodha",
+  "ADP",
+  "Aqua Security",
+  "Atlassian",
+  "Autodesk",
+  "Broadridge",
+  "Cadence",
+  "Cohesity",
+  "Confluent",
+  "Cornerstone OnDemand",
+  "Dell Technologies",
+  "Google",
+  "Infor",
+  "Intuit",
+  "Microsoft",
+  "Oracle",
+  "PayPal",
+  "Pegasystems",
+  "Postman",
+  "Rakuten India",
+  "SAP Labs India",
+  "Teradata",
+  "Uber",
+  "Visa",
+  "Walmart Global Tech India",
+  "Wayfair",
+  "Jupiter (Amica Financial)",
+  "Kore.ai",
+  "Setu",
+  "smallcase",
+  "Ultrahuman",
+  "Yellow.ai",
+  "Zluri"
+ ],
+ "skipped_robots": [],
+ "feed_version": 2,
+ "why": {
+  "Acko": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Amagi": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Ather Energy": "page not readable (HTTPError); browser failed (TimeoutError)",
+  "Chargebee": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Darwinbox": "no address; browser failed (Error)",
+  "Delhivery": "no address; browser failed (Error)",
+  "Eternal (Zomato / Blinkit)": "robots disallow",
+  "Flipkart": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Games24x7": "no address; browser failed (Error)",
+  "Go Digit Insurance": "page not readable (HTTPError); browser found no job list",
+  "Juspay": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
+  "Keka": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "KreditBee": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "LeadSquared": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Lenskart": "no address; browser failed (Error)",
+  "Licious": "discovery failed (HTTPError); browser found no job list",
+  "Mobile Premier League (MPL)": "no address; browser failed (Error)",
+  "MoEngage": "page not readable (HTTPError); browser found no job list",
+  "Myntra": "page read but no open job system recognised (probably script-only)",
+  "Navi": "page not readable (HTTPError); browser failed (TimeoutError)",
+  "Ninjacart": "discovery failed (HTTPError); browser found no job list",
+  "Nykaa": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Ola / Krutrim": "no address; browser failed (Error)",
+  "PhonePe": "page read but no open job system recognised (probably script-only)",
+  "Pine Labs": "page not readable (HTTPError); browser found no job list",
+  "Rapido": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "ShareChat (Mohalla Tech)": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Udaan": "page not readable (URLError); browser failed (TimeoutError)",
+  "Unacademy": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
+  "Uniphore": "page not readable (HTTPError)",
+  "Upstox": "page read but no open job system recognised (probably script-only)",
+  "Zepto": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Zerodha": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "ADP": "page not readable (HTTPError); browser found no job list",
+  "Aqua Security": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Atlassian": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
+  "Autodesk": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Broadridge": "no address; browser failed (Error)",
+  "Cadence": "no address; browser failed (Error)",
+  "Cohesity": "page read but no open job system recognised (probably script-only)",
+  "Confluent": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
+  "Cornerstone OnDemand": "no address; browser failed (Error)",
+  "Dell Technologies": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Google": "robots disallow",
+  "Infor": "page not readable (HTTPError); browser found no job list",
+  "Intuit": "discovery failed (PermissionError); browser failed (TimeoutError)",
+  "Microsoft": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Oracle": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
+  "PayPal": "no address; browser failed (Error)",
+  "Pegasystems": "page not readable (HTTPError); browser found no job list",
+  "Postman": "page not readable (HTTPError)",
+  "Rakuten India": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "SAP Labs India": "page not readable (HTTPError); browser failed (TimeoutError)",
+  "Teradata": "page not readable (HTTPError); browser found no job list",
+  "Uber": "page not readable (HTTPError); browser found no job list",
+  "Visa": "page read but no open job system recognised (probably script-only)",
+  "Walmart Global Tech India": "page not readable (URLError)",
+  "Wayfair": "page not readable (HTTPError); browser found no job list",
+  "Jupiter (Amica Financial)": "no address; browser failed (Error)",
+  "Kore.ai": "page not readable (URLError); browser failed (Error)",
+  "Setu": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "smallcase": "no address; browser failed (Error)",
+  "Ultrahuman": "no address; browser failed (Error)",
+  "Yellow.ai": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Zluri": "page read but no open job system recognised (probably script-only); browser found no job list"
+ },
+ "outside_target_new_dropped": 0,
+ "run_utc": "2026-11-21T20:06:08.559527",
+ "first_run_baseline": true,
+ "totals": {
+  "companies_read": 76,
+  "open_jobs": 5895,
+  "open_matching": 24,
+  "new": 0,
+  "new_with_description": 0,
+  "backlog_this_run": 0
+ }
+}
