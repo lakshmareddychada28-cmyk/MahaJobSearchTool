@@ -27,12 +27,12 @@ Meesho,A,https://www.meesho.io/jobs,none found since late 2023 (last reported ro
 Mindtickle,A,https://jobs.lever.co/mindtickle,,lever,mindtickle,Indian product,Bangalore
 Mobile Premier League (MPL),E,,,,,Indian product,Bangalore
 MoEngage,C,https://moengage.hire.trakstar.com/jobs/fk0vaw8,,,,Indian product,Bangalore
-Myntra,A,https://careers.myntra.com/jobs,,greenhouse,myntra,Indian product,Bangalore
+Myntra,C,https://careers.myntra.com/jobs,,,,Indian product,Bangalore
 Navi,C,https://navi.com/careers,,,,Indian product,Bangalore
 Ninjacart,C,https://ninjacart.com/?p=352,,,,Indian product,Bangalore
 Nykaa,C,https://careers.nykaa.com/,,,,Indian product,Bangalore
 Ola / Krutrim,E,,"2025: several rounds (~100, ~50, ~50); Jul 2026: ~half of remaining staff cut",,,Indian product,Bangalore
-PhonePe,A,https://www.phonepe.com/careers/job-openings/,2024: reported ~60% cut in customer-support staff (non-engineering),greenhouse,phonepe,Indian product,Bangalore
+PhonePe,C,https://www.phonepe.com/careers/job-openings/,2024: reported ~60% cut in customer-support staff (non-engineering),,,Indian product,Bangalore
 Pine Labs,C,https://pinelabs.com/careers,,,,Indian product,Bangalore
 Rapido,C,https://www.rapido.bike/Careers,,,,Indian product,Bangalore
 Razorpay,A,https://razorpay.com/careers/,,greenhouse,razorpaysoftwareprivatelimited,Indian product,Bangalore
@@ -42,9 +42,9 @@ Spinny,C,https://spinny.com/careers,,,,Indian product,Bangalore
 Swiggy,E,https://careers.swiggy.com/,Jan 2024: ~350-400 (~6%),,,Indian product,Bangalore
 Udaan,C,https://careers.udaan.com/,,,,Indian product,Bangalore
 Unacademy,C,https://unacademy.com/careers,,,,Indian product,Bangalore
-Uniphore,A,https://jobs.lever.co/uniphore/de4794df-760f-47ce-85fb-5585e227b916,,lever,uniphore,Indian product,Bangalore
+Uniphore,C,https://jobs.lever.co/uniphore/de4794df-760f-47ce-85fb-5585e227b916,,,,Indian product,Bangalore
 upGrad,C,https://upgrad.com/career,,,,Indian product,"Hyderabad, Bangalore"
-Upstox,A,https://www.upstox.com/careers,,lever,upstox,Indian product,Bangalore
+Upstox,C,https://www.upstox.com/careers,,,,Indian product,Bangalore
 Whatfix,C,https://whatfix.com/careers/,,,,Indian product,Bangalore
 Zenoti,A,https://job-boards.greenhouse.io/zenoti/jobs/6566422003,,greenhouse,zenoti,Indian product,Hyderabad
 Zepto,E,https://www.zepto.com/s/careers,2025: ~300 (cost optimisation) plus reported ops cuts,,,Indian product,Bangalore
@@ -61,7 +61,7 @@ Broadcom (VMware),A,https://www.broadcom.com/company/careers,"late 2023-2024: ~2
 Broadridge,E,,,,,Global product,"Hyderabad, Bangalore"
 Cadence,E,,,,,Global product,Bangalore
 Cisco,C,https://careers.cisco.com/global/en,"2025: 221 (Aug); 2024: two rounds (~4,000 Feb, ~7% Aug) (2024 from memory, unverified)",,,Global product,Bangalore
-Cohesity,A,https://www.cohesity.com/careers/open-positions/,none found,greenhouse,cohesity,Global product,Bangalore
+Cohesity,C,https://www.cohesity.com/careers/open-positions/,none found,,,Global product,Bangalore
 Commvault,A,https://job-boards.greenhouse.io/commvault/jobs/4554572008,,greenhouse,commvault,Global product,"Hyderabad, Bangalore (partly unverified)"
 Confluent,E,https://careers.confluent.io/open-positions/india?page=1,,,,Global product,Bangalore
 Cornerstone OnDemand,E,,,,,Global product,Hyderabad
@@ -93,7 +93,7 @@ Palo Alto Networks,C,https://jobs.paloaltonetworks.com/india,,,,Global product,"
 PayPal,E,,"2024: ~2,500 (~9%) in Jan (from memory, unverified)",,,Global product,Bangalore
 Pegasystems,C,https://pega.com/about/careers/21911/software-quality-engineer-management-plane-services,,,,Global product,"Hyderabad, Bangalore"
 Poppulo,A,https://job-boards.greenhouse.io/poppulo/jobs/8146850,,greenhouse,poppulo,Global product,Bangalore
-Postman,A,https://job-boards.greenhouse.io/postman/jobs/7668642003,,greenhouse,postman,Global product,Bangalore
+Postman,C,https://job-boards.greenhouse.io/postman/jobs/7668642003,,,,Global product,Bangalore
 Qualcomm,C,https://www.qualcomm.com/careers,,,,Global product,"Hyderabad, Bangalore"
 Rakuten India,C,https://symphony.rakuten.com/careers/india/sub-india,,,,Global product,Bangalore
 Rippling,C,https://www.rippling.com/careers/open-roles,,,,Global product,Bangalore
@@ -113,8 +113,8 @@ ThoughtSpot,C,https://www.thoughtspot.com/careers,,,,Global product,"Hyderabad, 
 Tricentis,A,https://www.tricentis.com/company/careers,,workday,tricentis.wd1.myworkdayjobs.com/Tricentis_Careers,Global product,Bangalore
 Twilio,A,https://job-boards.greenhouse.io/twilio/jobs/7926889,,greenhouse,twilio,Global product,"Bangalore, Remote"
 Uber,C,https://www.uber.com/careers/list/157630,none found,,,Global product,"Hyderabad, Bangalore"
-Visa,A,https://visa.co.in/en_in/jobs/REF058656W,none found,smartrecruiters,Visa,Global product,Bangalore
-Walmart Global Tech India,A,https://one.walmart.com/content/people-experience/india-careers/home.html,,workday,walmart.wd5.myworkdayjobs.com/WalmartExternal,Global product,Bangalore
+Visa,C,https://visa.co.in/en_in/jobs/REF058656W,none found,,,Global product,Bangalore
+Walmart Global Tech India,C,https://one.walmart.com/content/people-experience/india-careers/home.html,,,,Global product,Bangalore
 Wayfair,C,https://www.wayfair.com/careers/job/senior-manager--software-engineering/2-20865,,,,Global product,Bangalore
 Workato,A,https://www.workato.com/careers,,greenhouse,workato,Global product,"Hyderabad, Bangalore"
 Zscaler,A,https://job-boards.greenhouse.io/zscaler/jobs/4888120007,"~3% cut reported (bankinfosecurity, date not read)",greenhouse,zscaler,Global product,Bangalore
