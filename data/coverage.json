@@ -2,7 +2,7 @@
  "read": {
   "BrowserStack": {
    "feed": "workday",
-   "open": 34,
+   "open": 36,
    "source": "ats slug"
   },
   "CleverTap": {
@@ -32,7 +32,7 @@
   },
   "HighRadius": {
    "feed": "greenhouse",
-   "open": 64,
+   "open": 63,
    "source": "careers page"
   },
   "InMobi": {
@@ -52,12 +52,12 @@
   },
   "PhonePe": {
    "feed": "browser-json",
-   "open": 718,
+   "open": 717,
    "source": "careers page"
   },
   "Razorpay": {
    "feed": "greenhouse",
-   "open": 29,
+   "open": 28,
    "source": "ats slug"
   },
   "slice": {
@@ -82,7 +82,7 @@
   },
   "Zenoti": {
    "feed": "greenhouse",
-   "open": 54,
+   "open": 53,
    "source": "ats slug"
   },
   "Zeta": {
@@ -92,7 +92,7 @@
   },
   "Adobe": {
    "feed": "workday",
-   "open": 164,
+   "open": 165,
    "source": "ats slug"
   },
   "Amazon": {
@@ -117,12 +117,12 @@
   },
   "Commvault": {
    "feed": "greenhouse",
-   "open": 56,
+   "open": 57,
    "source": "ats slug"
   },
   "Databricks": {
    "feed": "greenhouse",
-   "open": 895,
+   "open": 894,
    "source": "ats slug"
   },
   "Eightfold AI": {
@@ -152,7 +152,7 @@
   },
   "Glean": {
    "feed": "greenhouse",
-   "open": 129,
+   "open": 130,
    "source": "ats slug"
   },
   "GoGuardian": {
@@ -164,11 +164,6 @@
    "feed": "greenhouse",
    "open": 31,
    "source": "ats slug"
-  },
-  "Intuit": {
-   "feed": "browser-links",
-   "open": 13,
-   "source": "careers page"
   },
   "InvoiceCloud": {
    "feed": "greenhouse",
@@ -207,7 +202,7 @@
   },
   "Okta": {
    "feed": "greenhouse",
-   "open": 373,
+   "open": 377,
    "source": "ats slug"
   },
   "Omnissa": {
@@ -237,7 +232,7 @@
   },
   "Rubrik": {
    "feed": "greenhouse",
-   "open": 208,
+   "open": 211,
    "source": "ats slug"
   },
   "Salesforce": {
@@ -277,7 +272,7 @@
   },
   "Tekion": {
    "feed": "ashby",
-   "open": 92,
+   "open": 91,
    "source": "ats slug"
   },
   "Thomson Reuters": {
@@ -292,7 +287,7 @@
   },
   "Tricentis": {
    "feed": "workday",
-   "open": 31,
+   "open": 32,
    "source": "ats slug"
   },
   "Twilio": {
@@ -342,7 +337,7 @@
   },
   "HighLevel": {
    "feed": "lever",
-   "open": 90,
+   "open": 91,
    "source": "ats slug"
   },
   "Jeeves": {
@@ -397,7 +392,7 @@
   },
   "Wells Fargo": {
    "feed": "workday",
-   "open": 143,
+   "open": 144,
    "source": "ats slug"
   },
   "Bank of America (BofA Continuum India)": {
@@ -412,12 +407,12 @@
   },
   "State Street": {
    "feed": "workday",
-   "open": 250,
+   "open": 249,
    "source": "ats slug"
   },
   "Northern Trust": {
    "feed": "workday",
-   "open": 186,
+   "open": 187,
    "source": "ats slug"
   },
   "Fidelity Investments (FMR India)": {
@@ -427,12 +422,12 @@
   },
   "Fidelity International": {
    "feed": "workday",
-   "open": 29,
+   "open": 28,
    "source": "ats slug"
   },
   "Vanguard": {
    "feed": "workday",
-   "open": 133,
+   "open": 134,
    "source": "ats slug"
   },
   "Invesco": {
@@ -442,7 +437,7 @@
   },
   "Synchrony": {
    "feed": "workday",
-   "open": 16,
+   "open": 15,
    "source": "ats slug"
   },
   "Capital One": {
@@ -452,12 +447,12 @@
   },
   "Commonwealth Bank (CommBank India)": {
    "feed": "workday",
-   "open": 108,
+   "open": 111,
    "source": "ats slug"
   },
   "Truist": {
    "feed": "workday",
-   "open": 166,
+   "open": 165,
    "source": "ats slug"
   },
   "Charles Schwab": {
@@ -492,7 +487,7 @@
   },
   "Nationwide": {
    "feed": "workday",
-   "open": 32,
+   "open": 33,
    "source": "careers page"
   },
   "Gainsight": {
@@ -502,7 +497,7 @@
   },
   "Coupa": {
    "feed": "lever",
-   "open": 42,
+   "open": 41,
    "source": "ats slug"
   },
   "Model N": {
@@ -557,7 +552,7 @@
   },
   "Pure Storage": {
    "feed": "greenhouse",
-   "open": 401,
+   "open": 399,
    "source": "ats slug"
   },
   "Extreme Networks": {
@@ -567,7 +562,7 @@
   },
   "Hitachi Vantara": {
    "feed": "workday",
-   "open": 330,
+   "open": 329,
    "source": "careers page"
   },
   "Kaseya": {
@@ -577,7 +572,7 @@
   },
   "GE HealthCare": {
    "feed": "workday",
-   "open": 196,
+   "open": 195,
    "source": "careers page"
   },
   "Philips": {
@@ -607,7 +602,7 @@
   },
   "Celonis": {
    "feed": "greenhouse",
-   "open": 262,
+   "open": 265,
    "source": "ats slug"
   },
   "Smartsheet": {
@@ -622,7 +617,7 @@
   },
   "JFrog": {
    "feed": "greenhouse",
-   "open": 78,
+   "open": 79,
    "source": "careers page"
   },
   "GitLab": {
@@ -647,7 +642,7 @@
   },
   "Toast": {
    "feed": "greenhouse",
-   "open": 324,
+   "open": 325,
    "source": "ats slug"
   },
   "HubSpot": {
@@ -667,7 +662,7 @@
   },
   "SpotDraft": {
    "feed": "ashby",
-   "open": 14,
+   "open": 13,
    "source": "careers page"
   },
   "Wingify (VWO)": {
@@ -722,7 +717,7 @@
   },
   "Elevance Health (Carelon)": {
    "feed": "workday",
-   "open": 37,
+   "open": 36,
    "source": "careers page"
   },
   "CVS Health / Aetna": {
@@ -752,7 +747,7 @@
   },
   "DBS Tech India": {
    "feed": "workday",
-   "open": 140,
+   "open": 139,
    "source": "ats slug"
   },
   "Arcesium": {
@@ -772,12 +767,12 @@
   },
   "Clearwater Analytics": {
    "feed": "greenhouse",
-   "open": 15,
+   "open": 16,
    "source": "careers page"
   },
   "Intel": {
    "feed": "workday",
-   "open": 265,
+   "open": 264,
    "source": "ats slug"
   },
   "AMD": {
@@ -872,6 +867,7 @@
   "Dell Technologies",
   "Google",
   "Infor",
+  "Intuit",
   "Microsoft",
   "Oracle",
   "PayPal",
@@ -998,7 +994,7 @@
   "Flipkart": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Games24x7": "no address; browser failed (Error)",
   "Go Digit Insurance": "page not readable (HTTPError); browser found no job list",
-  "Juspay": "page read but no open job system recognised (probably script-only); browser found no job list",
+  "Juspay": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
   "Keka": "page read but no open job system recognised (probably script-only); browser found no job list",
   "KreditBee": "page read but no open job system recognised (probably script-only); browser found no job list",
   "LeadSquared": "page read but no open job system recognised (probably script-only); browser found no job list",
@@ -1011,7 +1007,7 @@
   "Ninjacart": "discovery failed (HTTPError); browser found no job list",
   "Nykaa": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Ola / Krutrim": "no address; browser failed (Error)",
-  "Pine Labs": "page not readable (HTTPError); browser failed (TimeoutError)",
+  "Pine Labs": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
   "Rapido": "page read but no open job system recognised (probably script-only); browser found no job list",
   "ShareChat (Mohalla Tech)": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Udaan": "page not readable (URLError); browser failed (TimeoutError)",
@@ -1033,6 +1029,7 @@
   "Dell Technologies": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Google": "robots disallow",
   "Infor": "page not readable (HTTPError); browser found no job list",
+  "Intuit": "discovery failed (PermissionError); browser failed (TimeoutError)",
   "Microsoft": "page read but no open job system recognised (probably script-only); browser found no job list",
   "Oracle": "page read but no open job system recognised (probably script-only); browser failed (TimeoutError)",
   "PayPal": "no address; browser failed (Error)",
@@ -1146,13 +1143,13 @@
   "Deloitte (USI)": "robots disallow",
   "EY (GDS India)": "page read but no open job system recognised (probably script-only); browser found no job list"
  },
- "outside_target_new_dropped": 1,
- "run_utc": "2026-11-23T01:17:43.212832",
+ "outside_target_new_dropped": 2,
+ "run_utc": "2026-11-23T06:27:33.111766",
  "first_run_baseline": false,
  "totals": {
-  "companies_read": 165,
-  "open_jobs": 15528,
-  "open_matching": 69,
+  "companies_read": 164,
+  "open_jobs": 15523,
+  "open_matching": 68,
   "new": 0,
   "new_with_description": 0,
   "backlog_this_run": 0
