@@ -1,1 +1,20 @@
-[]
+[
+ {
+  "company": "Nutanix",
+  "title": "SDET - Python Automation [ 1 - 2 years ]",
+  "location": null,
+  "url": "https://jobs.jobvite.com/nutanix/job/o2zCAfwx",
+  "id": "Nutanix|https://jobs.jobvite.com/nutanix/job/o2zCAfwx",
+  "posted": null,
+  "desc": ""
+ },
+ {
+  "company": "OpenText",
+  "title": "Quality Assurance Developer",
+  "location": "Bangalore, Karnataka, IND, 560017",
+  "url": "https://careers.opentext.com/job/54233",
+  "id": "OpenText|54233",
+  "posted": "2026-11-23T10:18:47.000+0000",
+  "desc": "We are looking for a Quality Assurance Developer to join our Engineering team, focusing on testing OpenText\u2019s IX (GXS) product solutions. You will analyse requirements, write test plans, and ensure high-quality, timely releases. Ideal candidates have hands-on experience in UI and backend testing, automation, and a strong understanding of testing methodologies."
+ }
+]
